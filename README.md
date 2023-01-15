@@ -9,7 +9,7 @@ This project is a coming soon page built using the React JavaScript library and 
 
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/AXK99IqSdSMjbmP4Mn/giphy.gif)
+![Alt Text](https://media.giphy.com/media/NZRNEJlzZWIrbUbqGX/giphy.gif)
 
 
 ## Tech Stack
