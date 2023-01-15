@@ -6,7 +6,7 @@ function App() {
     <div className="flex flex-col justify-center items-center m-20 bg-gray-900">
       <CountDown />
 
-      <h1 class="pb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
+      <h1 class="pb-4 text-8xl font-extrabold leading-none tracking-tight text-white text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
         Coming Soon
       </h1>
       <p class="mb-6 text-lg font-normal lg:text-xl sm:px-16 xl:px-48 text-gray-400">
