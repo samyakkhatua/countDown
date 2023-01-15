@@ -10,7 +10,7 @@ function App() {
         Coming Soon
       </h1>
       <p class="mb-6 text-lg font-normal lg:text-xl sm:px-16 xl:px-48 text-gray-400">
-        Till then join the waitlist for latest updates of our product.
+        Till then join the waitlist for latest updates of our product!
       </p>
 
       <input
